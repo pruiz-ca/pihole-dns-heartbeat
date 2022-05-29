@@ -1,4 +1,4 @@
-NAME				=		dns_hearbeat
+NAME				=		dns_heartbeat
 
 SRC_DIR			=		src/
 INC_DIR			=		inc/
